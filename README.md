@@ -3,7 +3,6 @@ PhonePe UI Clone Made for assignment of Google Udacity Scholarship. This is just
 
 Made for Clone UI Challenege of Google Udacity Android Developer Scholarship Challenge 2018.
 
-# Screencast Gif
 
 
 ![phonepay](https://user-images.githubusercontent.com/24228143/42137920-63135ef4-7d92-11e8-84e8-0d0bb00e28b6.gif)
